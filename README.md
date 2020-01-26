@@ -46,11 +46,12 @@ Protein Protein Interaction for Chain A and Chain B:
 ![Protein Protein Interaction for Chain A and Chain B](https://github.com/eunmikimlab/PPI/blob/master/images/ppi_AB.png)
 <br/>
 
+Protein Protein Interaction for Chain C and Chain D: 
+
+![Protein Protein Interaction for Chain C and Chain D](https://github.com/eunmikimlab/PPI/blob/master/images/ppi_CD.png)
+<br/>
 
 Protein Protein Interaction for Chain A, B, C and D: 
 ![Protein Protein Interaction for Chain A, B, C and D](https://github.com/eunmikimlab/PPI/blob/master/images/ppi_ABCD.png)
 <br/>
 
-Protein Protein Interaction for Chain C and Chain D: 
-![Protein Protein Interaction for Chain C and Chain D](https://github.com/eunmikimlab/PPI/blob/master/images/ppi_CD.png)
-<br/>
