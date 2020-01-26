@@ -20,3 +20,7 @@ The value of this study can be categorized in three fields in order to analyzing
 
 Citation:
 •	Eun–Mi Kim, Jong Cheol Jeong, Bae–Ho Lee: New RMF Method for analysis human proteins, KCI 2018
+
+
+RMF with SCOP datasets: 
+![Boxplot, RMF with SCOP datasets](https://github.com/eunmikimlab/PPI/blob/master/images/BoxDataseqinfSCOP1.png)
