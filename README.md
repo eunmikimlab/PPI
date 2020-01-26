@@ -24,3 +24,24 @@ Citation:
 
 RMF with SCOP datasets: 
 ![Boxplot, RMF with SCOP datasets](https://github.com/eunmikimlab/PPI/blob/master/images/BoxDataseqinfSCOP1.png)
+
+RMF with EC datasets: 
+![Boxplot, RMF with EC datasets](https://github.com/eunmikimlab/PPI/blob/master/images/BoxDataseqnoninfEC1.png)
+
+RMF Correlation with EC datasets: 
+![HeatMap, RMF Correlation with EC datasets](https://github.com/eunmikimlab/PPI/blob/master/images/cortableseqnoninfEC2.png)
+
+RMF Correlation with SCOP datasets: 
+![HeatMap, RMF Correlation with SCOP datasets](https://github.com/eunmikimlab/PPI/blob/master/images/cortableseqnoninfSCOP2.png)
+
+PCA Evaluation with EC datasets: 
+![PCA Evaluation with EC datasets](https://github.com/eunmikimlab/PPI/blob/master/images/pcaclustseqnoninfEC1.png)
+
+Protein Protein Interaction for Chain A and Chain B: 
+![Protein Protein Interaction for Chain A and Chain B](https://github.com/eunmikimlab/PPI/blob/master/images/ppi_AB.png)
+
+Protein Protein Interaction for Chain C and Chain D: 
+![Protein Protein Interaction for Chain C and Chain D](https://github.com/eunmikimlab/PPI/blob/master/images/ppi_CD.png)
+
+Protein Protein Interaction for Chain A, B, C and D: 
+![Protein Protein Interaction for Chain A, B, C and D](https://github.com/eunmikimlab/PPI/blob/master/images/ppi_ABCD.png)
